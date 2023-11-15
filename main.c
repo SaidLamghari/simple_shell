@@ -1,9 +1,9 @@
 #include "shell.h"
 /*
-main - simple shell main function
-@ac : count of argument 
-@av : argements
-Return : 0 Always
+main - main
+@ac : count argc
+@av : argv
+Return : 0
 */
 
 int main(int ac, char **av)
